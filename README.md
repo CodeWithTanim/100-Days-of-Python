@@ -1,2 +1,78 @@
-# 100-Days-of-Python
-🚀 100 Days of Python - A daily challenge to level up your Python skills! 💻 Follow along with daily YouTube tutorials, tackle real-world projects, and code along. Ready to join the challenge? 💥 Fork this repo and let’s make Python fun and viral! 🐍🎉  Subscribe on YouTube: CodeWithTanim
+# 🐍 100 Days of Python - The Ultimate Python Challenge 🚀
+
+<p>
+    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/python%20gif.gif" width="400" />
+</p>
+
+## 🎯 Welcome to 100 Days of Python!
+Are you ready to **master Python** in just **100 days**? This challenge is designed to take you from **beginner to pro**, one day at a time! Each day, we'll tackle a new Python concept, project, or challenge to sharpen our skills! 🔥
+
+📌 **What to Expect?**
+- 🚀 **Daily Python tutorials & projects**
+- 🎯 **Hands-on coding challenges**
+- 🔥 **Real-world applications**
+- 🏆 **Fun, engaging, and beginner-friendly content**
+- 🌎 **Learn & code along with the community**
+
+---
+
+## 📌 Course Roadmap 🛤️
+| Day | Topic |
+|----|-------------------------------|
+| 1  | Introduction of Python Programming |
+|  ... | ... (More coming daily!) 🎉 |
+
+
+👉 **Full course will be updated DAILY! Stay tuned!**
+
+---
+
+## 📥 How to Use This Repository?
+1️⃣ **Clone the Repository:**
+```bash
+ git clone https://github.com/CodeWithTanim/100-Days-of-Python.git
+```
+
+2️⃣ **Navigate to the Day's Folder:**
+```bash
+ cd 100-Days-of-Python/Day-1
+```
+
+3️⃣ **Run the Python Code:**
+```bash
+ python day1.py
+```
+
+4️⃣ **Follow Along & Code Daily!** 🏆
+
+---
+
+## 📺 Watch The Full Playlist Here: 
+🎥 **[100 Days of Python - YouTube Series](https://www.youtube.com/@CodeWithTanim)** 🎬
+
+🚀 **New videos uploaded daily at** `CodeWithTanim`!
+
+---
+
+## 🚀 Why Join This Challenge?
+✅ **Perfect for Beginners** 🐣  
+✅ **Daily Progress & Motivation** 🎯  
+✅ **Build 100+ Python Projects** 🏗️  
+✅ **Boost Your Coding Skills** 🚀  
+✅ **Completely FREE & Open-Source** 💖  
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+    <a href="https://www.facebook.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.instagram.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.twitter.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://discord.gg/4Y4KUUADMC" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **If you find this helpful, don't forget to `star ⭐` this repository! Let's conquer Python together!** 🚀🔥
