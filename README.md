@@ -24,7 +24,7 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | 2  | Coming Soon... | 🔜 | 🔜 |
 
 (More coming daily!) 🎉 
-(More coming daily!) 🎉  
+
 
 
 👉 **Full course will be updated DAILY! Stay tuned!**
