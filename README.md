@@ -17,10 +17,13 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 ---
 
 ## 📌 Course Roadmap 🛤️
-| Day | Topic |
-|----|-------------------------------|
-| 1  | Introduction of Python Programming |
-|  ... | ... (More coming daily!) 🎉 |
+
+| Day | Topic | Video Link 🎥 |
+|----|-------------------------------|------------|
+| 1  | Introduction to Python Programming | [Watch Now](https://youtu.be/YNwIaPlSuFI) |
+| 2  | Coming Soon... | 🔜 |
+
+(More coming daily!) 🎉  
 
 
 👉 **Full course will be updated DAILY! Stay tuned!**
