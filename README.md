@@ -18,11 +18,12 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 
 ## 📌 Course Roadmap 🛤️
 
-| Day | Topic | Video Link 🎥 |
-|----|-------------------------------|------------|
-| 1  | Introduction to Python Programming | [Watch Now](https://youtu.be/YNwIaPlSuFI) |
-| 2  | Coming Soon... | 🔜 |
+| Day | Topic | Video Link 🎥 | Class Notes 📖 |
+|----|-------------------------------|------------|--------------|
+| 1  | Introduction to Python Programming | [Watch Now](https://youtu.be/YNwIaPlSuFI) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%201/Day%201%20Class%20Notes.md) |
+| 2  | Coming Soon... | 🔜 | 🔜 |
 
+(More coming daily!) 🎉 
 (More coming daily!) 🎉  
 
 
