@@ -21,6 +21,9 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | Day | Topic | Video Link 🎥 | Class Notes 📖 |
 |----|-------------------------------|------------|--------------|
 | 1  | Introduction to Python Programming | [Watch Now](https://youtu.be/YNwIaPlSuFI) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%201/Day%201%20Class%20Notes.md) |
+| 1  |  | [Watch Now]() | [View Notes]() |
+| 1  |  | [Watch Now]() | [View Notes]() |
+
 | 2  | Coming Soon... | 🔜 | 🔜 |
 
 (More coming daily!) 🎉 
