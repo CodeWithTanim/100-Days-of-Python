@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="100 Days of Python - Learn Python with daily video tutorials and notes. Follow along and master Python programming!">
+    <meta name="keywords" content="Python, Python course, 100 days of Python, programming, coding">
+    <meta name="author" content="CodeWithTanim">
+    <title>100 Days of Python - Videos & Notes</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+            text-align: center;
+            color: #333;
+            transition: background 0.4s ease-in-out, color 0.4s ease-in-out;
+        }
+
+        header {
+            background: #e0e0e0;
+            color: #333;
+            padding: 20px;
+            font-size: 28px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 40px;
+        }
+
+        #theme-toggle {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .light-mode #theme-toggle {
+            background: #333;
+            color: white;
+        }
+
+        .dark-mode #theme-toggle {
+            background: #fff;
+            color: black;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        #content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .card {
+            flex: 1 1 calc(33.33% - 40px);
+            max-width: 350px;
+            min-width: 280px;
+            background: #f0f0f0;
+            color: #333;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .card h2 {
+            color: #1e90ff;
+        }
+
+        .card a {
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            padding: 12px 18px;
+            margin: 5px;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+
+        .card a:first-of-type {
+            background: #1e90ff;
+            color: white;
+        }
+
+        .card a:last-of-type {
+            background: #ffa500;
+            color: white;
+        }
+
+        .card a:hover {
+            opacity: 0.8;
+        }
+
+        /* Dark Mode Styles */
+        .dark-mode {
+            background: #121212;
+            color: white;
+        }
+
+        .dark-mode header {
+            background: #1e1e1e;
+            color: white;
+        }
+
+        .dark-mode .card {
+            background: #1f1f1f;
+            color: white;
+            box-shadow: 0px 8px 25px rgba(255, 255, 255, 0.1);
+        }
+    </style>
+</head>
+
+<body class="light-mode">
+    <header>
+        <h1>📚 100 Days of Python - Video & Notes 🎥</h1>
+        <button id="theme-toggle">🌙 Dark Mode</button>
+    </header>
+
+    <main>
+        <div id="content"></div>
+    </main>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const content = document.getElementById("content");
+            const themeToggle = document.getElementById("theme-toggle");
+            const body = document.body;
+
+            // Check stored theme preference
+            if (localStorage.getItem("theme") === "dark") {
+                body.classList.remove("light-mode");
+                body.classList.add("dark-mode");
+                themeToggle.textContent = "☀️ Light Mode";
+            }
+
+            themeToggle.addEventListener("click", function () {
+                if (body.classList.contains("light-mode")) {
+                    body.classList.remove("light-mode");
+                    body.classList.add("dark-mode");
+                    themeToggle.textContent = "☀️ Light Mode";
+                    localStorage.setItem("theme", "dark");
+                } else {
+                    body.classList.remove("dark-mode");
+                    body.classList.add("light-mode");
+                    themeToggle.textContent = "🌙 Dark Mode";
+                    localStorage.setItem("theme", "light");
+                }
+            });
+
+            const days = [
+            { day: 1, topic: "Introduction to Python", video: "https://youtu.be/YNwIaPlSuFI", notes: "https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%201%3A%20Introduction%20to%20Python%20Programming/Day%201%20Class%20Notes.md" },
+                { day: 2, topic: "Our First Program in Python", video: "https://youtu.be/SCDaWjA2a9o", notes: "https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%202%3A%20Our%20First%20Program%20in%20Python/Day%202%20Class%20Notes.md" },
+                { day: 3, topic: "Comments, Escape Sequences & Print Statement", video: "https://youtu.be/iICsOFsCev8", notes: "https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%203%3A%20Comments%2C%20Escape%20Sequences%20%26%20Print%20Statement/Day%203%20Class%20Notes.md" },
+                // { day: 4, topic: "", video: "", notes: "" },
+                // { day: 5, topic: "", video: "", notes: "" },
+                // { day: 6, topic: "", video: "", notes: "" },
+                // { day: 7, topic: "", video: "", notes: "" },
+                // { day: 8, topic: "", video: "", notes: "" },
+                // { day: 9, topic: "", video: "", notes: "" },
+                // { day: 10, topic: "", video: "", notes: "" },
+                // { day: 11, topic: "", video: "", notes: "" },
+                // { day: 12, topic: "", video: "", notes: "" },
+                // { day: 13, topic: "", video: "", notes: "" },
+                // { day: 14, topic: "", video: "", notes: "" },
+                // { day: 15, topic: "", video: "", notes: "" },
+                // { day: 16, topic: "", video: "", notes: "" },
+                // { day: 17, topic: "", video: "", notes: "" },
+                // { day: 18, topic: "", video: "", notes: "" },
+                // { day: 19, topic: "", video: "", notes: "" },
+                // { day: 20, topic: "", video: "", notes: "" },
+                // { day: 21, topic: "", video: "", notes: "" },
+                // { day: 22, topic: "", video: "", notes: "" },
+                // { day: 23, topic: "", video: "", notes: "" },
+                // { day: 24, topic: "", video: "", notes: "" },
+                // { day: 25, topic: "", video: "", notes: "" },
+                // { day: 26, topic: "", video: "", notes: "" },
+                // { day: 27, topic: "", video: "", notes: "" },
+                // { day: 28, topic: "", video: "", notes: "" },
+                // { day: 29, topic: "", video: "", notes: "" },
+                // { day: 30, topic: "", video: "", notes: "" },
+                // { day: 31, topic: "", video: "", notes: "" },
+                // { day: 32, topic: "", video: "", notes: "" },
+                // { day: 33, topic: "", video: "", notes: "" },
+                // { day: 34, topic: "", video: "", notes: "" },
+                // { day: 35, topic: "", video: "", notes: "" },
+                // { day: 36, topic: "", video: "", notes: "" },
+                // { day: 37, topic: "", video: "", notes: "" },
+                // { day: 38, topic: "", video: "", notes: "" },
+                // { day: 39, topic: "", video: "", notes: "" },
+                // { day: 40, topic: "", video: "", notes: "" },
+                // { day: 41, topic: "", video: "", notes: "" },
+                // { day: 42, topic: "", video: "", notes: "" },
+                // { day: 43, topic: "", video: "", notes: "" },
+                // { day: 44, topic: "", video: "", notes: "" },
+                // { day: 45, topic: "", video: "", notes: "" },
+                // { day: 46, topic: "", video: "", notes: "" },
+                // { day: 47, topic: "", video: "", notes: "" },
+                // { day: 48, topic: "", video: "", notes: "" },
+                // { day: 49, topic: "", video: "", notes: "" },
+                // { day: 50, topic: "", video: "", notes: "" },
+                // { day: 51, topic: "", video: "", notes: "" },
+                // { day: 52, topic: "", video: "", notes: "" },
+                // { day: 53, topic: "", video: "", notes: "" },
+                // { day: 54, topic: "", video: "", notes: "" },
+                // { day: 55, topic: "", video: "", notes: "" },
+                // { day: 56, topic: "", video: "", notes: "" },
+                // { day: 57, topic: "", video: "", notes: "" },
+                // { day: 58, topic: "", video: "", notes: "" },
+                // { day: 59, topic: "", video: "", notes: "" },
+                // { day: 60, topic: "", video: "", notes: "" },
+                // { day: 61, topic: "", video: "", notes: "" },
+                // { day: 62, topic: "", video: "", notes: "" },
+                // { day: 63, topic: "", video: "", notes: "" },
+                // { day: 64, topic: "", video: "", notes: "" },
+                // { day: 65, topic: "", video: "", notes: "" },
+                // { day: 66, topic: "", video: "", notes: "" },
+                // { day: 67, topic: "", video: "", notes: "" },
+                // { day: 68, topic: "", video: "", notes: "" },
+                // { day: 69, topic: "", video: "", notes: "" },
+                // { day: 70, topic: "", video: "", notes: "" },
+                // { day: 71, topic: "", video: "", notes: "" },
+                // { day: 72, topic: "", video: "", notes: "" },
+                // { day: 73, topic: "", video: "", notes: "" },
+                // { day: 74, topic: "", video: "", notes: "" },
+                // { day: 75, topic: "", video: "", notes: "" },
+                // { day: 76, topic: "", video: "", notes: "" },
+                // { day: 77, topic: "", video: "", notes: "" },
+                // { day: 78, topic: "", video: "", notes: "" },
+                // { day: 79, topic: "", video: "", notes: "" },
+                // { day: 80, topic: "", video: "", notes: "" },
+                // { day: 81, topic: "", video: "", notes: "" },
+                // { day: 82, topic: "", video: "", notes: "" },
+                // { day: 83, topic: "", video: "", notes: "" },
+                // { day: 84, topic: "", video: "", notes: "" },
+                // { day: 85, topic: "", video: "", notes: "" },
+                // { day: 86, topic: "", video: "", notes: "" },
+                // { day: 87, topic: "", video: "", notes: "" },
+                // { day: 88, topic: "", video: "", notes: "" },
+                // { day: 89, topic: "", video: "", notes: "" },
+                // { day: 90, topic: "", video: "", notes: "" },
+                // { day: 91, topic: "", video: "", notes: "" },
+                // { day: 92, topic: "", video: "", notes: "" },
+                // { day: 93, topic: "", video: "", notes: "" },
+                // { day: 94, topic: "", video: "", notes: "" },
+                // { day: 95, topic: "", video: "", notes: "" },
+                // { day: 96, topic: "", video: "", notes: "" },
+                // { day: 97, topic: "", video: "", notes: "" },
+                // { day: 98, topic: "", video: "", notes: "" },
+                // { day: 99, topic: "", video: "", notes: "" },
+                // { day: 100, topic: "", video: "", notes: "" }
+            ];
+
+            days.forEach(day => {
+                const card = document.createElement("div");
+                card.classList.add("card");
+                card.innerHTML = `
+                    <h2>Day ${day.day}: ${day.topic}</h2>
+                    <p><a href="${day.video}" target="_blank">📺 Watch Video</a></p>
+                    <p><a href="${day.notes}" target="_blank">📖 View Notes</a></p>
+                `;
+                content.appendChild(card);
+            });
+        });
+    </script>
+</body>
+
+</html>
