@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>100 Days of Python - Videos & Notes</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            text-align: center;
+            color: white;
+        }
+        header {
+            background: rgba(0, 0, 0, 0.9);
+            color: white;
+            padding: 20px;
+            font-size: 28px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4);
+        }
+        main {
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            color: black;
+            padding: 20px;
+            margin: 15px auto;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+        .card:hover {
+            transform: scale(1.08);
+            box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.4);
+        }
+        .card h2 {
+            color: #6a11cb;
+        }
+        .card a {
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            padding: 12px 18px;
+            margin: 5px;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+        .card a:first-of-type {
+            background: #ff5f6d;
+            color: white;
+        }
+        .card a:last-of-type {
+            background: #ffc371;
+            color: white;
+        }
+        .card a:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📚 100 Days of Python - Video & Notes 🎥</h1>
+    </header>
+    
+    <main>
+        <div id="content"></div>
+    </main>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const content = document.getElementById("content");
+            const days = [
+                { day: 1, topic: "Introduction to Python", video: "https://youtu.be/YNwIaPlSuFI", notes: "https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%201/Day%201%20Class%20Notes.md" },
+                // { day: 2, topic: "Variables & Data Types", video: "https://www.youtube.com/watch?v=YOUR_VIDEO_ID", notes: "https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Notes/Day2.md" }
+            ];
+            
+            days.forEach(day => {
+                const card = document.createElement("div");
+                card.classList.add("card");
+                card.innerHTML = `
+                    <h2>Day ${day.day}: ${day.topic}</h2>
+                    <p><a href="${day.video}" target="_blank">📺 Watch Video</a></p>
+                    <p><a href="${day.notes}" target="_blank">📖 View Notes</a></p>
+                `;
+                content.appendChild(card);
+            });
+        });
+    </script>
+</body>
+</html>
