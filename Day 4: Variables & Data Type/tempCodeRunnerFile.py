@@ -1,0 +1,7 @@
+print(age)
+print(age2)
+print(name)
+print(is_Student)
+print(fruits)
+print(cordinates)
+print(person)
