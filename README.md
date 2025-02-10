@@ -24,8 +24,8 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | 2  | Our First Program in Python | [Watch Now](https://youtu.be/SCDaWjA2a9o) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%202%3A%20Our%20First%20Program%20in%20Python/Day%202%20Class%20Notes.md) |
 | 3  | Comments, Escape Sequences & Print Statement | [Watch Now](https://youtu.be/iICsOFsCev8) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%203%3A%20Comments%2C%20Escape%20Sequences%20%26%20Print%20Statement/Day%203%20Class%20Notes.md) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
+| 4  | Variables & Data Type | [Watch Now](https://youtu.be/BcMaWV5Gn4A) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%204%3A%20Variables%20%26%20Data%20Type/Day%204%20Class%20Notes.md) |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
-| 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
