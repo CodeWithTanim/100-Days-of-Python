@@ -26,10 +26,11 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | 4  | Variables & Data Type | [Watch Now](https://youtu.be/BcMaWV5Gn4A) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%204%3A%20Variables%20%26%20Data%20Type/Day%204%20Class%20Notes.md) |
 | 5  | Operators in Python | [Watch Now](https://youtu.be/BT8XCDAFSTQ) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%205%3A%20Operators%20in%20Python/Day%205%20Class%20Notes.md) |
 | 6  | Typecasting in Python | [Watch Now](https://youtu.be/r_QUgZyczPY) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%206%3A%20Typecasting%20in%20Python/Day%206%20Class%20Notes.md) |
+| 7  | User Input in Python | [Watch Now](https://youtu.be/PDC2Am-o6As) | [View Notes]() |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
-| 1  |  | [Watch Now]() | [View Notes]() |
+
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
