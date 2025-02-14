@@ -27,11 +27,12 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | 5  | Operators in Python | [Watch Now](https://youtu.be/BT8XCDAFSTQ) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%205%3A%20Operators%20in%20Python/Day%205%20Class%20Notes.md) |
 | 6  | Typecasting in Python | [Watch Now](https://youtu.be/r_QUgZyczPY) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%206%3A%20Typecasting%20in%20Python/Day%206%20Class%20Notes.md) |
 | 7  | User Input in Python | [Watch Now](https://youtu.be/PDC2Am-o6As) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%207%3A%20User%20Input%20in%20Python/Day%207%20Class%20Notes.md) |
+| 8  | Strings in Python | [Watch Now](https://youtu.be/SnGR1z2CHYM) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%208%3A%20Strings%20in%20Python/Day%208%20Class%20Note.md) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
 
-| 1  |  | [Watch Now]() | [View Notes]() |
+
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
