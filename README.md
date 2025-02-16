@@ -158,10 +158,15 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 
 ---
 
-## 📺 Watch The Full Playlist Here: 
-🎥 **[100 Days of Python - YouTube Series](https://www.youtube.com/playlist?list=PL1zLMEn8OJHWmukqkae_Xj-cHQz2_KOqm)** 🎬
+## 📺 Watch The Full Playlist Here:  
+🎥 **[100 Days of Python - YouTube Series](https://youtube.com/playlist?list=PL1zLMEn8OJHWmukqkae_Xj-cHQz2_KOqm&si=mgWzvaie0rq84MAH)** 🎬  
 
-🚀 **New videos uploaded daily at** [CodeWithTanim](https://www.youtube.com/@CodeWithTanim)!
+🚀 **New videos uploaded daily at** [CodeWithTanim](https://www.youtube.com/@CodeWithTanim)!  
+
+### 📺 Watch the Playlist:  
+[![Watch the playlist](https://github.com/CodeWithTanim/README-MANAGER/blob/main/YouTube-Thumbnail/100-Days-Of-Python/100-Days-Of-Python.png)](https://youtube.com/playlist?list=PL1zLMEn8OJHWmukqkae_Xj-cHQz2_KOqm&si=mgWzvaie0rq84MAH)  
+
+Click the image above to watch the full playlist! 🚀🔥    
 
 ---
 
