@@ -30,6 +30,7 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | 8  | Strings in Python | [Watch Now](https://youtu.be/SnGR1z2CHYM) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%208%3A%20Strings%20in%20Python/Day%208%20Class%20Note.md) |
 | 9  | Strings Slicing and Operations on Strings in Python | [Watch Now](https://youtu.be/ITHzi5GOrRk) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%209%3A%20Strings%20Slicing%20and%20Operations%20on%20Strings%20in%20Python/Day%209%20Class%20Note.md) |
 | 10  | String Methods in Python | [Watch Now](https://youtu.be/USDzDeqxOGk) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2010%3A%20String%20Methods%20in%20Python/Day%2010%20Class%20Notes.md) |
+| 11  | If Else Conditional Statements in Python | [Watch Now](https://youtu.be/PtvtnHORlAs) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2011%3A%20If%20Else%20Conditional%20Statements%20in%20Python/Day%2011%20Class%20Notes.md) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
@@ -37,7 +38,7 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 
 
 
-| 1  |  | [Watch Now]() | [View Notes]() |
+
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
