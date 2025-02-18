@@ -31,6 +31,7 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | 9  | Strings Slicing and Operations on Strings in Python | [Watch Now](https://youtu.be/ITHzi5GOrRk) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%209%3A%20Strings%20Slicing%20and%20Operations%20on%20Strings%20in%20Python/Day%209%20Class%20Note.md) |
 | 10  | String Methods in Python | [Watch Now](https://youtu.be/USDzDeqxOGk) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2010%3A%20String%20Methods%20in%20Python/Day%2010%20Class%20Notes.md) |
 | 11  | If Else Conditional Statements in Python | [Watch Now](https://youtu.be/PtvtnHORlAs) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2011%3A%20If%20Else%20Conditional%20Statements%20in%20Python/Day%2011%20Class%20Notes.md) |
+| 12  | Exercise 1: Greeting Machine in Python | [Watch Now](https://youtu.be/8Bsdbor1Gxk) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/tree/main/Day%2012%3A%20Exercise%201%3A%20Greeting%20Machine%20in%20Python) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
@@ -39,7 +40,7 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 
 
 
-| 1  |  | [Watch Now]() | [View Notes]() |
+
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
