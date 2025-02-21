@@ -123,7 +123,7 @@ for x in [1,2,3]:
 **প্রবলেম:** ১ থেকে ১০০ পর্যন্ত জোড় সংখ্যাগুলোর যোগফল বের করুন For Loop ব্যবহার করে।  
 **Hint:** `range(start, end, step)` এর ৩য় প্যারামিটার ব্যবহার করুন!
 
-**সমাধান লিংক:** [Day 15 Challenge Solution](https://github.com/your-repo-link)
+**সমাধান লিংক:** [Day 15 Challenge Solution](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2015%3A%20For%20Loops%20in%20Python/solution.md)
 
 ---
 
