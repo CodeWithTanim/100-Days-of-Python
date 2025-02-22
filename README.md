@@ -35,12 +35,13 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 | 13  | Modules & Pip | [Watch Now](https://youtu.be/8e5LaMkWSAU) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2013%3A%20Modules%20%26%20Pip/Day%2013%20Class%20Note.md) |
 | 14  | Match Case Statements in Python | [Watch Now](https://youtu.be/OSCRDksSgMI) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/tree/main/Day%2014%3A%20Match%20Case%20Statements%20in%20Python) |
 | 15  | For Loops in Python | [Watch Now](https://youtu.be/gMk8iOY70s8) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2015%3A%20For%20Loops%20in%20Python/Day%2015%20Class%20Note.md) |
+| 16  | While Loop in Python | [Watch Now](https://youtu.be/GvIiSOAcJoo) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2016%3A%20While%20Loop%20in%20Python/Day%2016%20Class%20Notes.md) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
 
 
-| 1  |  | [Watch Now]() | [View Notes]() |
+
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
