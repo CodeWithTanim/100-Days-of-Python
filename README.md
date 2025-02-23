@@ -1,23 +1,56 @@
-# 🐍 100 Days of Python - The Ultimate Python Challenge 🚀
-
-<p>
-    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/python%20gif.gif" width="400" />
+<!-- Banner Section -->
+<p align="center">
+    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/python%20gif.gif" alt="100 Days of Python" style="max-width: 100%; height: auto; width: 400px;">
 </p>
 
-## 🎯 Welcome to 100 Days of Python!
-Are you ready to **master Python** in just **100 days**? This challenge is designed to take you from **beginner to pro**, one day at a time! Each day, we'll tackle a new Python concept, project, or challenge to sharpen our skills! 🔥
-
-📌 **What to Expect?**
-- 🚀 **Daily Python tutorials & projects**
-- 🎯 **Hands-on coding challenges**
-- 🔥 **Real-world applications**
-- 🏆 **Fun, engaging, and beginner-friendly content**
-- 🌎 **Learn & code along with the community**
+<h1 align="center">🐍 100 Days of Python 🚀</h1>
+<p align="center">
+    <b>From Zero to Python Hero - Daily Coding Challenges</b> ⚡<br>
+    Master Python fundamentals & build real projects! 🛠️<br>
+    <sub>Complete Curriculum | Video Tutorials | Code Examples</sub>
+</p>
 
 ---
 
-## 📌 Course Roadmap 🛤️
+## **🚀 Journey Overview**
+✅ **Daily Python Lessons**  
+- Bite-sized video tutorials 🎥  
+- Hands-on coding exercises 💻  
+- Progressive difficulty curve 📈  
 
+✅ **Project-Based Learning**  
+- 25+ real-world applications 🏗️  
+- Game development 🎮  
+- Web scraping & automation 🤖  
+
+✅ **Community Support**  
+- Discord community 👥  
+- Live Q&A sessions 💬  
+- Progress tracking 📊  
+
+✅ **Bonus Features**  
+- Downloadable cheat sheets 📚  
+- Interview preparation 💼  
+- Certificate of completion 🏆 
+
+<p align="center">
+    <a href="https://codewithtanim.github.io/100-Days-of-Python/" target="_blank">
+        <img src="https://img.shields.io/badge/Curriculum-2B5797?style=for-the-badge&logo=gitbook&logoColor=white">
+    </a>
+    <a href="https://github.com/CodeWithTanim/100-Days-of-Python" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://youtube.com/playlist?list=PL1zLMEn8OJHWmukqkae_Xj-cHQz2_KOqm" target="_blank">
+        <img src="https://img.shields.io/badge/Course_Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+</p>
+
+---
+
+## **📜 Curriculum Preview**
+
+
+---
 | Day | Topic | Video Link 🎥 | Class Notes 📖 |
 |----|-------------------------------|------------|--------------|
 | 1  | Introduction to Python Programming | [Watch Now](https://youtu.be/YNwIaPlSuFI) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%201/Day%201%20Class%20Notes.md) |
@@ -132,13 +165,28 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 
 (More coming daily!) 🎉 
 
+---
 
+## **📚 Learning Path**
+### **Foundation Weeks (Day 1-30)**  
+1. Basic syntax & data types 🧩  
+2. Control flow & functions ⚙️  
+3. File handling & OOP 🗃️  
+4. Error handling & debugging 🐞  
 
-👉 **Full course will be updated DAILY! Stay tuned!**
+### **Project Phase (Day 31-70)**  
+- Build games & utilities 🎲  
+- Web development basics 🌐  
+- Data analysis & visualization 📊  
+
+### **Advanced Topics (Day 71-100)**  
+- APIs & web scraping 🕸️  
+- Databases & ORMs 🗄️  
+- Automation & deployment 🚀  
 
 ---
 
-## 📥 How to Use This Repository?
+## **⚡ Quick Start**
 1️⃣ **Clone the Repository:**
 ```bash
  git clone https://github.com/CodeWithTanim/100-Days-of-Python.git
@@ -156,39 +204,49 @@ Are you ready to **master Python** in just **100 days**? This challenge is desig
 
 4️⃣ **Follow Along & Code Daily!** 🏆
 
+
+### **Daily Progress**
+1. Watch video tutorial ▶️  
+2. Complete exercises 📝  
+3. Share progress 🚀  
+
 ---
 
-## 📺 Watch The Full Playlist Here:  
-🎥 **[100 Days of Python - YouTube Series](https://youtube.com/playlist?list=PL1zLMEn8OJHWmukqkae_Xj-cHQz2_KOqm&si=mgWzvaie0rq84MAH)** 🎬  
+## **🛠️ Tech Stack**
+- **Core Language**: Python 3.11+ 🐍  
+- **Tools**: Jupyter Notebook, VS Code, Ai 🔧  
+- **Libraries**: Pandas, NumPy, Requests 📦  
 
-🚀 **New videos uploaded daily at** [CodeWithTanim](https://www.youtube.com/@CodeWithTanim)!  
+---
 
-### 📺 Watch the Playlist:  
+## **📺 Video Series**
+<p align="center">
+    <a href="https://youtube.com/playlist?list=PL1zLMEn8OJHWmukqkae_Xj-cHQz2_KOqm">
+        <img src="https://img.shields.io/badge/YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    
 [![Watch the playlist](https://github.com/CodeWithTanim/README-MANAGER/blob/main/YouTube-Thumbnail/100-Days-Of-Python/100-Days-Of-Python.png)](https://youtube.com/playlist?list=PL1zLMEn8OJHWmukqkae_Xj-cHQz2_KOqm&si=mgWzvaie0rq84MAH)  
 
 Click the image above to watch the full playlist! 🚀🔥    
-
----
-
-## 🚀 Why Join This Challenge?
-✅ **Perfect for Beginners** 🐣  
-✅ **Daily Progress & Motivation** 🎯  
-✅ **Build 100+ Python Projects** 🏗️  
-✅ **Boost Your Coding Skills** 🚀  
-✅ **Completely FREE & Open-Source** 💖  
-
----
-
-## 📬 Connect With Me
-<p align="center">
-    <a href="https://www.facebook.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="https://www.instagram.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://www.twitter.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://discord.gg/4Y4KUUADMC" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐ **If you find this helpful, don't forget to `star ⭐` this repository! Let's conquer Python together!** 🚀🔥
+## **📬 Connect & Support**
+<p align="center">
+    <a href="https://youtube.com/@CodeWithTanim" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <a href="https://discord.gg/4Y4KUUADMC" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://github.com/CodeWithTanim" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</p>
+
+<p align="center">
+    🐍 **Stuck on a challenge?** <a href="https://github.com/CodeWithTanim/100-Days-of-Python/issues">Ask for help</a><br>
+    ⭐ **Enjoying the journey? Star the repo!**<br>
+    🔄 **Daily updates - Watch this space!**
+</p>
