@@ -72,7 +72,7 @@
 | 17  | Break & Continue Statements in Python | [Watch Now](https://youtu.be/DLHJWz74IDU) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2017%3A%20Break%20%26%20Continue%20Statements%20in%20Python/Day%2017%20Class%20Notes.md) |
 | 18  | Functions in Python | [Watch Now](https://youtu.be/o20ATHQ-arg) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2018%3A%20Functions%20in%20Python/Day%2018%20Class%20Note.md) |
 | 19  | Functions Arguments in Python | [Watch Now](https://youtu.be/MDw4ZRKYCzs) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2019%3A%20Functions%20Arguments%20in%20Python/Day%2019%20Class%20Note.md) |
-<!-- |   |  | [Watch Now]() | [View Notes]() | -->
+|  20 | Exercise 2: A Simple Calculator Using Python | [Watch Now]() | [View Notes]() |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
