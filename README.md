@@ -75,12 +75,13 @@
 |  20 | Exercise 2: A Simple Calculator Using Python | [Watch Now](https://youtu.be/E15NvHh3vzo) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2020%3A%20Exercise%202%3A%20A%20Simple%20Calculator%20Using%20Python/Day%2020%20Class%20Notes.md) |
 | 21  | Lists in Python | [Watch Now](https://youtu.be/r9wJrAtiup0) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2021%3A%20Lists%20in%20Python/Day%2021%20Class%20notes.md) |
 | 22  | Lists Methods in Python | [Watch Now](https://youtu.be/DPILI1bqIJo) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2022%3A%20Lists%20Methods%20in%20Python/Day%2022%20Class%20Notes.md) |
+| 23  | Tuples in Python | [Watch Now](https://youtu.be/5azoWNjF6ls) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2023%3A%20Tuples%20in%20Python/Day%2023%20Class%20Notes.md) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
 
-| 1  |  | [Watch Now]() | [View Notes]() |
-| 1  |  | [Watch Now]() | [View Notes]() |
+
+
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
