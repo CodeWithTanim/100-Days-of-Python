@@ -77,6 +77,7 @@
 | 22  | Lists Methods in Python | [Watch Now](https://youtu.be/DPILI1bqIJo) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2022%3A%20Lists%20Methods%20in%20Python/Day%2022%20Class%20Notes.md) |
 | 23  | Tuples in Python | [Watch Now](https://youtu.be/5azoWNjF6ls) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2023%3A%20Tuples%20in%20Python/Day%2023%20Class%20Notes.md) |
 | 24  | Operations on Tuples in Python | [Watch Now](https://youtu.be/NxPOzlW9gJw) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2024%3A%20Operations%20on%20Tuples%20in%20Python/Day%2024%20Class%20Notes.md) |
+| 25  | Excercise 3: Quiz-Based Treasure Hunt | [Watch Now](https://youtu.be/X7eo3bqSmyY) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2025%3A%20Excercise%203%3A%20Quiz-Based%20Treasure%20Hunt/Day%2025%20Class%20Notes.md) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
@@ -84,7 +85,7 @@
 
 
 
-| 1  |  | [Watch Now]() | [View Notes]() |
+
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
 | 1  |  | [Watch Now]() | [View Notes]() |
