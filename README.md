@@ -80,7 +80,7 @@
 | 25  | Excercise 3: Quiz-Based Treasure Hunt | [Watch Now](https://youtu.be/X7eo3bqSmyY) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2025%3A%20Excercise%203%3A%20Quiz-Based%20Treasure%20Hunt/Day%2025%20Class%20Notes.md) |
 | 26  | f-String in Python | [Watch Now](https://youtu.be/bfM1I__N1WQ) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2026%3A%20f-String%20in%20Python/Day%2026%20Class%20Notes.md) |
 | 27  | Doc-String in Python | [Watch Now](https://youtu.be/Ml0vKi5fjV8) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2027%3A%20Doc-String%20in%20Python/Day%2027%20Clas%20Notes.md) |
-| 28  | Recursion in Python | [Watch Now]() | [View Notes]() |
+| 28  | Recursion in Python | [Watch Now](https://youtu.be/T0EYxCqmHhA) | [View Notes](https://github.com/CodeWithTanim/100-Days-of-Python/blob/main/Day%2028%3A%20Recursion%20in%20Python/Day%2028%20Class%20Notes.md) |
 | ...  | Coming Soon... | 🔜 | 🔜 |
 <!-- | 1  |  | [Watch Now]() | [View Notes]() |
 
